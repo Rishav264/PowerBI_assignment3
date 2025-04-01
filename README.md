@@ -13,4 +13,4 @@
 4. *Visualizations*  
    - Built *donut, bar, and line charts* to analyze *App Usage, Battery Drain, and Data Consumption*.  
 
-Link of screenshots - https://drive.google.com/drive/folders/1rR1P2PA4s4aSCwiw2oUMAAPQGAXcNySE?usp=drive_link
+Link of screenshots - https://drive.google.com/drive/folders/1kpUd-kabPDvxJ89HbpO8pArVuFn7ON_y?usp=drive_link
